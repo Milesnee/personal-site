@@ -13,11 +13,10 @@
     {
       "date": "Oct 2025 - Present",
       "role": "Co-Founder & Product Lead",
-      "company": "ZhiDaYa",
+      "company": "Simailun",
       "description": [
-        "Co-founded AI-powered intelligent business solutions startup; designed and launched zhidaya.com, an AI-driven advisory platform.",
-        "Led full product lifecycle: technical architecture, LLM integration, UX design, and Go-to-Market strategy.",
-        "Built multi-agent orchestration system using OpenClaw + MCP + custom Skill framework for AI workflow automation.",
+        "Built multi-agent orchestration system using MCP protocol and proprietary Skill framework, enabling AI agent collaboration.",
+        "Led full product lifecycle: technical architecture, LLM integration, UX design, and Go-to-Market strategy for Xiaocheng Awareness Agent",
         "Developed quantitative trading data APIs as a side project, applying AI-driven strategies to cryptocurrency market analysis."
       ]
     },
