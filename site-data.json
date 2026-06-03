@@ -1,13 +1,13 @@
 {
   "personal": {
     "name": "Miles Ni",
-    "tagline": "AI Entrepreneur & Multi-Agent Architect · 14 Years of Full-Stack Data Experience",
+    "tagline": "AI Entrepreneur & Multi-Agent Architect · 13 Years of Full-Stack Enterprise Data Experience",
     "picture": "profile.jpeg",
     "website": "https://milesnee.github.io/personal-site/",
     "linkedin": "https://linkedin.com/in/miles-ni",
     "email": "milesnee.e@gmail.com",
     "github": "https://github.com/Milesnee",
-    "about": "AI entrepreneur building at the intersection of AI agents, quantitative trading, and mental wellness. 14 years of full-stack data experience spanning IBM, enterprise data governance, and AI-powered product development.\n\nFounder of ZhiDaYa (AI business advisory platform) and XiaoCheng (AI awareness companion). Independent researcher on Enterprise AI Agent Adoption Maturity and its correlation with firm valuation. Author of 「老麦茶馆」, a Chinese-language publication on AI agents and fintech.\n\nCore philosophy: Build better environments for AI agents, not just stronger models — the Harness Engineering approach to multi-agent orchestration."
+    "about": "AI entrepreneur building at the intersection of AI agents, quantitative trading, and mental wellness. 14 years of full-stack data experience spanning IBM, enterprise data governance, and AI-powered product development.\n\nFounder of Datarail (Data MCP Server) and XiaoCheng (AI awareness companion). Independent researcher on Enterprise AI Agent Adoption Maturity and its correlation with firm valuation. Author of 「老麦茶馆」, a Chinese-language publication on AI agents and fintech.\n\nCore philosophy: Build better environments for AI agents, not just stronger models — the Harness Engineering approach to multi-agent orchestration."
   },
   "experience": [
     {
@@ -46,7 +46,7 @@
     {
       "date": "Sep 2018 - Sep 2021",
       "role": "Data Product Manager",
-      "company": "Atzuche (P2P Car-Sharing)",
+      "company": "Atzuche (Leading P2P Car-Sharing Platform)",
       "description": [
         "Designed self-service analytics platform (Power BI); grew weekly active users from 0 to 800+.",
         "Improved registration conversion rate from 5% to 10% through funnel analysis and optimization.",
