@@ -1,0 +1,100 @@
+{
+  "personal": {
+    "name": "Miles Ni",
+    "tagline": "AI Entrepreneur & Multi-Agent Architect · 14 Years of Full-Stack Data Experience",
+    "picture": "profile.jpeg",
+    "website": "https://milesnee.github.io/personal-site/",
+    "linkedin": "https://linkedin.com/in/miles-ni",
+    "email": "milesnee.e@gmail.com",
+    "github": "https://github.com/Milesnee",
+    "about": "AI entrepreneur building at the intersection of AI agents, quantitative trading, and mental wellness. 14 years of full-stack data experience spanning IBM, enterprise data governance, and AI-powered product development.\n\nFounder of ZhiDaYa (AI business advisory platform) and XiaoCheng (AI awareness companion). Independent researcher on Enterprise AI Agent Adoption Maturity and its correlation with firm valuation. Author of 「老麦茶馆」, a Chinese-language publication on AI agents and fintech.\n\nCore philosophy: Build better environments for AI agents, not just stronger models — the Harness Engineering approach to multi-agent orchestration."
+  },
+  "experience": [
+    {
+      "date": "Oct 2025 - Present",
+      "role": "Co-Founder & Product Lead",
+      "company": "ZhiDaYa",
+      "description": [
+        "Co-founded AI-powered intelligent business solutions startup; designed and launched zhidaya.com, an AI-driven advisory platform.",
+        "Led full product lifecycle: technical architecture, LLM integration, UX design, and Go-to-Market strategy.",
+        "Built multi-agent orchestration system using OpenClaw + MCP + custom Skill framework for AI workflow automation.",
+        "Developed quantitative trading data APIs as a side project, applying AI-driven strategies to cryptocurrency market analysis."
+      ]
+    },
+    {
+      "date": "Sep 2024 - Sep 2025",
+      "role": "Data Governance Expert & Project Manager",
+      "company": "State-owned Financial Enterprise",
+      "description": [
+        "Led enterprise-wide data governance initiative; designed data architecture, established data standards and quality framework.",
+        "Unified 30+ data sources across finance, risk, and operations departments.",
+        "Improved data accuracy from 75% to 95% through systematic governance policies.",
+        "Built self-service analytics platform serving 200+ daily active users."
+      ]
+    },
+    {
+      "date": "Sep 2021 - Sep 2024",
+      "role": "Data Development Team Lead",
+      "company": "iResearch",
+      "description": [
+        "Led data development team for flagship products including MiniappTracker, OneMedia, and AdTracker.",
+        "Reconstructed data lineage for AdTracker (15+ years of accumulated data) without disrupting daily operations.",
+        "Standardized data warehouse platform; designed item library label system.",
+        "Developed user activity tracker dashboard, enabling 0→1 breakthrough in data-driven decision-making."
+      ]
+    },
+    {
+      "date": "Sep 2018 - Sep 2021",
+      "role": "Data Product Manager",
+      "company": "Atzuche (P2P Car-Sharing)",
+      "description": [
+        "Designed self-service analytics platform (Power BI); grew weekly active users from 0 to 800+.",
+        "Improved registration conversion rate from 5% to 10% through funnel analysis and optimization.",
+        "Developed RFM-based user segmentation system supporting coupon A/B testing."
+      ]
+    },
+    {
+      "date": "Aug 2014 - Sep 2018",
+      "role": "BI/DW Specialist",
+      "company": "IBM / Enterprise Consulting",
+      "description": [
+        "Developed complex Cognos dashboards for Suncorp BI Transformation project at IBM Shanghai.",
+        "Key Cognos developer; participated in enterprise data warehouse planning.",
+        "Designed enterprise data warehouse and BI solutions for financial and technology clients."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "date": "2008 - 2012",
+      "institution": "Nanjing Normal University",
+      "degree": "B.Eng. in Automation",
+      "description": [
+        "Relevant coursework: Control Theory, Signal Processing, Computer Programming, Database Systems."
+      ]
+    }
+  ],
+  "certifications": [
+    { "name": "DAMA-CDGA — Certified Data Governance Associate" },
+    { "name": "CGFT Level I — Certified Financial Technologist" },
+    { "name": "IBM Certified Designer — Cognos 10 BI Reporter" }
+  ],
+  "achievements": [
+    { "name": "MBA Guest Lecturer — AI Agent Orchestration & Governance (May 2026)" },
+    { "name": "Open-source Contributor — OpenClaw issue #89715, ClawHub Skills" },
+    { "name": "Public Author — 「老麦茶馆」WeChat Official Account, 10K+ readers" },
+    { "name": "Knowledge Vault — 240+ structured articles on AI, fintech, and agent engineering" }
+  ],
+  "skills": [
+    { "name": "AI Agent Orchestration (OpenClaw / MCP / Skills)" },
+    { "name": "LLM Application Development (Prompt Engineering / Function Calling)" },
+    { "name": "Python (Data Engineering / Automation / Quant Trading)" },
+    { "name": "SQL & Data Warehouse Architecture" },
+    { "name": "Data Governance (DAMA / Quality / Standards)" },
+    { "name": "Quantitative Trading (Freqtrade / Capital Cycle Framework)" },
+    { "name": "Power BI & Tableau" },
+    { "name": "BI Platforms (Cognos / Superset)" },
+    { "name": "TypeScript / React" },
+    { "name": "Linux & DevOps (Docker / systemd / CI/CD)" }
+  ]
+}
