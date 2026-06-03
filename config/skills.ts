@@ -9,152 +9,109 @@ export interface skillsInterface {
 
 export const skillsUnsorted: skillsInterface[] = [
   {
-    name: "Next.js",
+    name: "Python",
     description:
-      "Effortlessly build dynamic apps with routing, layouts, loading UI, and API routes.",
+      "Primary language for data engineering, AI agent development, quantitative trading, and automation.",
     rating: 5,
-    icon: Icons.nextjs,
+    icon: Icons.code,
   },
   {
-    name: "React",
+    name: "SQL",
     description:
-      "Craft interactive user interfaces using components, state, props, and virtual DOM.",
+      "Deep expertise in complex queries, data warehousing, ETL pipelines, and cross-source data unification.",
     rating: 5,
+    icon: Icons.database,
+  },
+  {
+    name: "LLM App Development",
+    description:
+      "Building production AI applications with LLM orchestration, prompt engineering, and multi-agent systems.",
+    rating: 5,
+    icon: Icons.brain,
+  },
+  {
+    name: "AI Agent Orchestration",
+    description:
+      "Designing and operating multi-agent systems using MCP, OpenClaw, and custom Skill frameworks.",
+    rating: 5,
+    icon: Icons.gitHub,
+  },
+  {
+    name: "Prompt Engineering",
+    description:
+      "Structured prompt design for function-calling, reasoning chains, and behavior control.",
+    rating: 5,
+    icon: Icons.code,
+  },
+  {
+    name: "Data Governance",
+    description:
+      "DAMA framework, data quality management, data standards, data asset management at enterprise scale.",
+    rating: 5,
+    icon: Icons.shield,
+  },
+  {
+    name: "Power BI",
+    description:
+      "Self-service analytics platforms, dashboards, and data product design at scale (800+ WAU).",
+    rating: 5,
+    icon: Icons.chart,
+  },
+  {
+    name: "Quantitative Trading",
+    description:
+      "Systematic crypto trading with freqtrade, capital cycle framework, and Chan theory signals.",
+    rating: 4,
+    icon: Icons.trendingUp,
+  },
+  {
+    name: "Data Engineering",
+    description:
+      "ETL pipelines, data warehouse design, data lineage, and cross-source unification (30+ sources).",
+    rating: 5,
+    icon: Icons.database,
+  },
+  {
+    name: "IBM Cognos",
+    description:
+      "Enterprise BI dashboard delivery, EDW architecture, and international client engagement.",
+    rating: 4,
+    icon: Icons.chart,
+  },
+  {
+    name: "MCP (Model Context Protocol)",
+    description:
+      "Standard protocol for AI agent-tool interaction; building MCP servers and primitives.",
+    rating: 5,
+    icon: Icons.code,
+  },
+  {
+    name: "TypeScript / React",
+    description:
+      "Frontend development for data platforms and AI product interfaces.",
+    rating: 3,
     icon: Icons.react,
   },
   {
-    name: "GraphQL",
+    name: "Linux / DevOps",
     description:
-      "Fetch data precisely with a powerful query language for APIs and runtime execution.",
+      "Server administration, Docker containers, systemd services, and CI/CD pipelines.",
     rating: 4,
-    icon: Icons.graphql,
+    icon: Icons.terminal,
   },
   {
-    name: "Nest.js",
+    name: "Apache Superset",
     description:
-      "Create scalable and modular applications with a progressive Node.js framework.",
+      "Open-source BI platform for analytics dashboards and data visualization.",
     rating: 4,
-    icon: Icons.nestjs,
+    icon: Icons.chart,
   },
   {
-    name: "express.js",
+    name: "Tableau",
     description:
-      "Build web applications and APIs quickly using a fast, unopinionated Node.js framework.",
-    rating: 5,
-    icon: Icons.express,
-  },
-  {
-    name: "Node.js",
-    description:
-      "Run JavaScript on the server side, enabling dynamic and responsive applications.",
-    rating: 5,
-    icon: Icons.nodejs,
-  },
-  {
-    name: "MongoDB",
-    description:
-      "Store and retrieve data seamlessly with a flexible and scalable NoSQL database.",
-    rating: 5,
-    icon: Icons.mongodb,
-  },
-  {
-    name: "Typescript",
-    description:
-      "Enhance JavaScript with static types, making code more understandable and reliable.",
-    rating: 5,
-    icon: Icons.typescript,
-  },
-  {
-    name: "Javascript",
-    description:
-      "Create interactive and dynamic web experiences with the versatile scripting language.",
-    rating: 5,
-    icon: Icons.javascript,
-  },
-  {
-    name: "HTML 5",
-    description:
-      "Structure web content beautifully with the latest version of HyperText Markup Language.",
+      "Data visualization and exploratory analysis for business intelligence.",
     rating: 4,
-    icon: Icons.html5,
-  },
-  {
-    name: "CSS 3",
-    description:
-      "Style web pages creatively with the latest iteration of Cascading Style Sheets.",
-    rating: 4,
-    icon: Icons.css3,
-  },
-  {
-    name: "React Native",
-    description:
-      "Develop cross-platform mobile apps using React for consistent and engaging experiences.",
-    rating: 4,
-    icon: Icons.react,
-  },
-  {
-    name: "Angular",
-    description:
-      "Build dynamic web apps with a TypeScript-based open-source framework by Google.",
-    rating: 3,
-    icon: Icons.angular,
-  },
-  {
-    name: "Redux",
-    description:
-      "Manage app state effectively using a predictable and centralized state container.",
-    rating: 4,
-    icon: Icons.redux,
-  },
-  {
-    name: "Socket.io",
-    description:
-      "Enable real-time, bidirectional communication between clients and servers effortlessly.",
-    rating: 3,
-    icon: Icons.socketio,
-  },
-  {
-    name: "Material UI",
-    description:
-      "Create stunning and responsive UIs with a popular React UI framework.",
-    rating: 4,
-    icon: Icons.mui,
-  },
-
-  {
-    name: "Tailwind CSS",
-    description:
-      "Design beautiful, modern websites faster with a utility-first CSS framework.",
-    rating: 5,
-    icon: Icons.tailwindcss,
-  },
-  {
-    name: "AWS",
-    description:
-      "Utilize Amazon Web Services to build and deploy scalable, reliable, and secure applications.",
-    rating: 3,
-    icon: Icons.amazonaws,
-  },
-  {
-    name: "Bootstrap",
-    description:
-      "Quickly create responsive and appealing web designs using a popular CSS framework.",
-    rating: 2,
-    icon: Icons.bootstrap,
-  },
-  {
-    name: "MySQL",
-    description:
-      "Manage and organize relational databases efficiently for data-driven applications.",
-    rating: 2,
-    icon: Icons.mysql,
-  },
-  {
-    name: "Netlify",
-    description:
-      "Manage and organize relational databases efficiently for data-driven applications.",
-    rating: 4,
-    icon: Icons.netlify,
+    icon: Icons.chart,
   },
 ];
 

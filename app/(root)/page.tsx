@@ -25,8 +25,7 @@ import profileImg from "@/public/profile-img.jpg";
 
 export const metadata: Metadata = {
   title: `${pagesConfig.home.metadata.title}`,
-  description:
-    "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions.",
+  description: siteConfig.description,
   alternates: {
     canonical: siteConfig.url,
   },
@@ -41,7 +40,7 @@ export default function IndexPage() {
     name: siteConfig.authorName,
     url: siteConfig.url,
     image: siteConfig.ogImage,
-    jobTitle: "Applied AI Engineer",
+    jobTitle: "AI Entrepreneur & Multi-Agent Architect",
     sameAs: [siteConfig.links.github, siteConfig.links.twitter],
   };
 
@@ -85,7 +84,7 @@ export default function IndexPage() {
             width={100}
             sizes="100vw"
             className="bg-primary rounded-full mb-0 h-auto md:mb-2 w-[60%] max-w-[16rem] border-8 border-primary"
-            alt="Naman Barkiya - Applied AI Engineer Portfolio"
+            alt="Miles Ni - AI Entrepreneur Portfolio"
             priority
           />
           <AnimatedText
@@ -93,19 +92,19 @@ export default function IndexPage() {
             delay={0.2}
             className="font-heading text-3xl sm:text-5xl md:text-6xl lg:text-7xl"
           >
-            Naman Barkiya
+            Miles Ni
           </AnimatedText>
           <AnimatedText
             as="h3"
             delay={0.4}
             className="font-heading text-base sm:text-xl md:text-xl lg:text-2xl"
           >
-            Applied AI Engineer
+            AI Entrepreneur & Multi-Agent Architect
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-              Software engineer working at the intersection of AI, data, and
-              scalable software systems.
+              14 years of full-stack data experience. Building at the intersection
+              of AI agents, quantitative trading, and mental wellness.
             </p>
           </div>
 
@@ -130,7 +129,7 @@ export default function IndexPage() {
                     size: "lg",
                   })
                 )}
-                aria-label="Contact Naman Barkiya"
+                aria-label="Contact Miles Ni"
               >
                 <Icons.contact className="w-4 h-4 mr-2" /> Contact
               </Link>

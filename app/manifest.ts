@@ -1,11 +1,13 @@
 import type { MetadataRoute } from "next";
 
+export const dynamic = "force-static";
+
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Naman Barkiya | Applied AI Engineer",
-    short_name: "Naman Barkiya",
+    name: "Miles Ni | AI Entrepreneur",
+    short_name: "Miles Ni",
     description:
-      "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems.",
+      "Miles Ni — AI Entrepreneur & Multi-Agent Architect. 14 years of full-stack data experience.",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",
@@ -23,14 +25,7 @@ export default function manifest(): MetadataRoute.Manifest {
         purpose: "maskable",
       },
     ],
-    categories: [
-      "portfolio",
-      "ai",
-      "software engineering",
-      "machine learning",
-      "developer",
-      "web development",
-    ],
+    categories: ["portfolio", "ai", "quantitative trading"],
     lang: "en",
     dir: "ltr",
     scope: "/",

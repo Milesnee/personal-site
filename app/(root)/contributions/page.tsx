@@ -6,15 +6,16 @@ import { contributionsUnsorted } from "@/config/contributions";
 import { pagesConfig } from "@/config/pages";
 
 export const metadata: Metadata = {
-  title: pagesConfig.contributions.metadata.title,
-  description: pagesConfig.contributions.metadata.description,
+  title: `Contributions — Miles Ni`,
+  description:
+    "Open-source contributions and community involvement by Miles Ni.",
 };
 
 export default function ContributonsPage() {
   return (
     <PageContainer
-      title={pagesConfig.contributions.title}
-      description={pagesConfig.contributions.description}
+      title="Contributions"
+      description="Open-source contributions and community involvement."
     >
       <ContributionCard
         contributions={contributionsUnsorted}

@@ -7,39 +7,25 @@ export interface contributionsInterface {
 
 export const contributionsUnsorted: contributionsInterface[] = [
   {
-    repo: "minimal-next-portfolio",
+    repo: "openclaw",
     contibutionDescription:
-      "Open-source Next.js portfolio template. Trusted and forked by developers worldwide (130+ GitHub stars).",
-    repoOwner: "namanbarkiya",
-    link: "https://github.com/namanbarkiya/minimal-next-portfolio",
+      "Submitted feature request for Feishu interactive card message parsing — identified root cause and proposed fix in parseMessageContent.",
+    repoOwner: "openclaw",
+    link: "https://github.com/openclaw/openclaw/issues/89715",
   },
   {
-    repo: "niya-saas-template",
+    repo: "knowledge-vault",
     contibutionDescription:
-      "Modern Next.js SaaS template. Production-ready starter for devs and AI startups (30+ GitHub stars).",
-    repoOwner: "namanbarkiya",
-    link: "https://github.com/namanbarkiya/niya-saas-template",
+      "Maintained personal knowledge archive with 44 structured articles spanning AI agent theory, quantitative finance, and Harness engineering.",
+    repoOwner: "milesnee",
+    link: "https://github.com/milesnee/knowledge-vault",
   },
   {
-    repo: "autogen",
+    repo: "clawcast-skills",
     contibutionDescription:
-      "Improved the gallery component to showcase the community work.",
-    repoOwner: "Microsoft",
-    link: "https://github.com/microsoft/autogen/pull/1445",
-  },
-  {
-    repo: "creativecommons",
-    contibutionDescription:
-      "Closed Issue: Fixed navbar issue on the main website of creative common.",
-    repoOwner: "Creative Commons",
-    link: "https://github.com/creativecommons/creativecommons.github.io-source/pull/738",
-  },
-  {
-    repo: "creativecommons",
-    contibutionDescription:
-      "Added section for 'Other Opportunities' on main page.",
-    repoOwner: "Creative Commons",
-    link: "https://github.com/creativecommons/creativecommons.github.io-source/pull/719",
+      "Published open-source skills (youtube-content, paper-search, aiwiki) on ClawHub for community use.",
+    repoOwner: "milesnee",
+    link: "https://github.com/milesnee",
   },
 ];
 

@@ -8,78 +8,75 @@ type PagesConfig = {
       title: string;
       description: string;
     };
-    // featuredDescription: string;
   };
 };
 
 export const pagesConfig: PagesConfig = {
   home: {
     title: "Home",
-    description: "Welcome to my portfolio website.",
+    description: "AI Entrepreneur & Multi-Agent Architect.",
     metadata: {
-      title: "Home",
-      description: "Naman Barkiya's portfolio website.",
+      title: "Miles Ni — AI Entrepreneur & Multi-Agent Architect",
+      description:
+        "Miles Ni (倪磊) — 14 years of full-stack data experience. Building at the intersection of AI agents, quantitative trading, and mental wellness.",
     },
   },
   skills: {
     title: "Skills",
-    description: "Key skills that define my professional identity.",
+    description: "AI orchestration, data engineering, quantitative trading, and more.",
     metadata: {
-      title: "Skills",
-      description:
-        "Naman Barkiya's key skills that define his professional identity.",
+      title: "Skills — Miles Ni",
+      description: "Miles Ni's key skills spanning AI agents, data engineering, and quantitative trading.",
     },
   },
   projects: {
     title: "Projects",
-    description: "Showcasing impactful projects and technical achievements.",
+    description: "AI agents, open-source tools, quantitative trading, and research.",
     metadata: {
-      title: "Projects",
-      description: "Naman Barkiya's projects in building web applications.",
+      title: "Projects — Miles Ni",
+      description:
+        "Miles Ni's projects in AI agent orchestration, quantitative trading, and enterprise AI research.",
     },
   },
   contact: {
     title: "Contact",
-    description: "Let's connect and explore collaborations.",
+    description: "Get in touch.",
     metadata: {
-      title: "Contact",
-      description: "Contact Naman Barkiya.",
+      title: "Contact — Miles Ni",
+      description: "Contact Miles Ni — AI entrepreneur based in Shanghai.",
+    },
+  },
+  resume: {
+    title: "Resume",
+    description: "Full professional resume.",
+    metadata: {
+      title: "Resume — Miles Ni",
+      description: "Miles Ni's professional resume — 14 years of full-stack data and AI experience.",
+    },
+  },
+  experience: {
+    title: "Experience",
+    description: "From IBM BI specialist to AI startup founder.",
+    metadata: {
+      title: "Experience — Miles Ni",
+      description: "Miles Ni's professional journey — 14 years from IBM to AI entrepreneurship.",
     },
   },
   contributions: {
     title: "Contributions",
     description: "Open-source contributions and community involvement.",
     metadata: {
-      title: "Contributions",
-      description:
-        "Naman Barkiya's open-source contributions and community involvement.",
-    },
-  },
-  resume: {
-    title: "Resume",
-    description: "Naman Barkiya's resume.",
-    metadata: {
-      title: "Resume",
-      description: "Naman Barkiya's resume.",
+      title: "Contributions — Miles Ni",
+      description: "Miles Ni's open-source contributions.",
     },
   },
   blogs: {
-    title: "Blogs",
+    title: "Blog",
     description:
-      "Thoughts on AI, software engineering, and building in public.",
+      "Thoughts on AI agents, Harness engineering, and building in public.",
     metadata: {
-      title: "Blogs",
-      description:
-        "Naman Barkiya's blog — thoughts on AI, software engineering, and building in public.",
-    },
-  },
-  experience: {
-    title: "Experience",
-    description: "Professional journey and career timeline.",
-    metadata: {
-      title: "Experience",
-      description:
-        "Naman Barkiya's professional journey and experience timeline.",
+      title: "Blog — Miles Ni",
+      description: "Miles Ni's blog — thoughts on AI agents, Harness engineering, and the future of work.",
     },
   },
 };

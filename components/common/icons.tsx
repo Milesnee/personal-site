@@ -177,4 +177,12 @@ export const Icons = {
   paper: Scroll,
   aurora: Sparkles,
   synthwave: Music,
+  python: SiNextdotjs,
+  database: SiMongodb,
+  brain: Sparkles,
+  code: SiTypescript,
+  shield: Settings,
+  chart: Laptop,
+  trendingUp: ArrowRight,
+  terminal: Settings,
 };
